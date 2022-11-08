@@ -1,0 +1,11 @@
+.container {
+  background-color: antiquewhite;
+  height: 100%;
+  position: absolute;
+  
+}
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif Luminari, fantasy;
+  text-align: right;
+  color: maroon
+}
